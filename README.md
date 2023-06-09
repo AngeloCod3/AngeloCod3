@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Gym Ludus (Prototype)**
 
-- 👨‍💻 All of my projects are available at [www.angelocode.com](www.angelocode.com)
+- 👨‍💻 All of my projects are available at [https://www.angelocode.com](https://www.angelocode.com)
 
-- 📝 I regularly write articles on [blog.angelocode.com](blog.angelocode.com)
+- 📝 I regularly write articles on [https://blog.angelocode.com](https://blog.angelocode.com)
 
 - 💬 Ask me about **React, Ionic/Capacitor, Nodejs and Express**
 
